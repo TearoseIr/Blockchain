@@ -1,0 +1,13 @@
+[
+  {
+  "candidate": "Ivan",
+  "vote": 2
+},
+  {"candidate": "Dmitry",
+    "vote": 3
+  },
+  {
+    "candidate": "Alex",
+    "vote": 1
+  }
+]
