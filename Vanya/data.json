@@ -1,7 +1,7 @@
 [
   {
   "candidate": "Ivan",
-  "vote": 2
+  "vote": 5
 },
   {"candidate": "Dmitry",
     "vote": 3
@@ -9,5 +9,13 @@
   {
     "candidate": "Alex",
     "vote": 1
+  },
+  {
+    "candidate": "Irina",
+    "vote": 2
+  },
+  {
+    "candidate": "Kate",
+    "vote": 2
   }
 ]

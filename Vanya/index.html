@@ -31,6 +31,24 @@
     </tr>
    </tbody>
 </table><--->
+<div id = table_block class ="table_block mt-3"></div>
+
+<div id = vote class="d-flex flex-column">
+    <h2 class = "w-75 mx-auto mb-3 fs-4 fw-bolder">Select a Candidate</h2>
+    <select class="form-select form-select-lg w-75 mx-auto mb-3" aria-label="Default select example">
+        <option selected>Open this select menu</option>
+    </select>
+    <div class="d-flex w-75 mx-auto pb-5 border-bottom">
+        <button id = vote_button  type="button" class="btn btn-primary vote" disabled>Vote</button>
+    </div>
+
+    <div class="d-flex w-75 mx-auto pt-5 justify-content-end">
+        <button id = update_button type="button" class="btn btn-secondary vote">Data Update</button>
+    </div>
+
+</div>
+
 <script type = "module" src = "./index.js"></script>
 </body>
 </html>
+
